@@ -8,7 +8,7 @@ Active work in progress, fork of https://github.com/MyCaffe/NCCL
 - **GPU architectures:** `35, 37, 50, 52, 53, 60, 61, 62, 70, 72, 75, 80, 86, 87, 89, 90`
 
 ## Usage
-1. Clone this repository.
+1. Download nccl_all arch.7z and extract files.
 2. Select the required build from `windows/nccl_all_arch/`:
    - `nccl.h` — Header
    - `nccl64_134.11.8.dll` — Runtime library
